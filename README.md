@@ -18,3 +18,5 @@ Nomadventure est un projet de fin d'année qui vise à créer une plateforme en 
 
 # Description
 Ce projet a été réalisé en autonomie, pour la présentation oral de mon examen de fin d'année. J'ai pu mettre en oeuvre mes compétences spécialement les languages natifs, ainsi que d'autres fonctionnalités acquises pendant le développement. Comme l'utilisation de la librairie PHPMailer, et du déploiement en production.
+
+Projet en cours.
