@@ -1,3 +1,5 @@
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 # Nomadventure
 Nomadventure est un projet de fin d'année qui vise à créer une plateforme en ligne pour les amateurs de voyage et d'aventure. L'objectif principal de ce projet est de fournir aux utilisateurs un espace où ils peuvent partager leurs expériences de voyage, découvrir de nouvelles destinations, interagir avec d'autres voyageurs et trouver des informations utiles pour planifier leurs propres aventures.
 
