@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-![SSH](https://img.shields.io/badge/ssh-%23123F6D.svg?style=for-the-badge&logo=ssh&logoColor=#123F6D)
+![SSH](https://img.shields.io/badge/ssh-%23E34F26.svg?style=for-the-badge&logo=ssh&logoColor=#123F6D)
 
 
 
